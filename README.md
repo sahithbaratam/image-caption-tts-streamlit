@@ -18,6 +18,7 @@ git clone https://github.com/sahithbaratam/image-caption-tts-streamlit.git
 cd image-caption-tts-streamlit
 
 2️⃣ Create a virtual environment (optional but recommended)
+
 For Windows:
 python -m venv .venv
 .venv\Scripts\activate
