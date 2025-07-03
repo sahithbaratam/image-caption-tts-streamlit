@@ -209,29 +209,6 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Setup
-
-```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-python -m pytest tests/
-
-# Format code
-black app.py
-
-# Lint code
-flake8 app.py
-```
 
 ## 📊 Performance Metrics
 
@@ -244,20 +221,7 @@ flake8 app.py
 
 *Note: Times are approximate and depend on hardware specifications*
 
-## 🔮 Future Enhancements
 
-- [ ] Support for batch image processing
-- [ ] Custom model fine-tuning capabilities
-- [ ] Real-time webcam integration
-- [ ] Voice input for image descriptions
-- [ ] Advanced image preprocessing options
-- [ ] Export functionality for captions and audio
-- [ ] Database integration for caption history
-- [ ] REST API endpoint creation
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -267,19 +231,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit** for the amazing web application framework
 - **OpenAI** for inspiration in AI application development
 
-## 📞 Support
 
-For questions, issues, or contributions:
-- Create an issue in the GitHub repository
-- Contact the development team
-- Check the documentation for additional resources
-
-## 🔗 Related Projects
-
-- [BLIP: Bootstrapped Language-Image Pre-training](https://github.com/salesforce/BLIP)
-- [Streamlit Documentation](https://docs.streamlit.io)
-- [Hugging Face Transformers](https://huggingface.co/transformers)
-
----
 
 **Made with ❤️ using Python, Streamlit, and cutting-edge AI models**
